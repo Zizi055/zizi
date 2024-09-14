@@ -1,0 +1,26 @@
+.body{
+  font-family: Helvetica;
+  background-color: bisque;
+  width: 980px;
+}
+
+.h1 {
+    color: brown;
+    font-size: 35;
+}
+.h2 {
+    color: chocolate;
+    font-size: 25;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 20;
+}
+.section{
+  border: 2px;
+}
+
+
+
